@@ -1,0 +1,4 @@
+[submodule "TRESCLOUD/odoo-ecuador-contabilidad"]
+	path = TRESCLOUD/odoo-ecuador-contabilidad
+	url = git@github.com:TRESCLOUD/odoo-ecuador-contabilidad.git
+	branch = 13.0
